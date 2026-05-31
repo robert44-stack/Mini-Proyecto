@@ -1,0 +1,12 @@
+[31/05/2026 15:03:06] === INICIANDO TAREAS AUTOMATIZADAS ===
+[31/05/2026 15:03:06] Iniciando backup...
+[31/05/2026 15:03:06] Archivo respaldado: archivo1.txt
+[31/05/2026 15:03:06] Archivo respaldado: archivo2.txt
+[31/05/2026 15:03:06] Archivo respaldado: archivo3.txt
+[31/05/2026 15:03:06] Backup completado en: ./backups/backup-2026-05-31_15-03-06
+[31/05/2026 15:03:06] Limpiando backups de mas de 7 dias...
+[31/05/2026 15:03:06] No hay backups antiguos para eliminar
+[31/05/2026 15:03:06] === RESUMEN ===
+[31/05/2026 15:03:06] Archivos en carpeta: 3
+[31/05/2026 15:03:06] Backups disponibles: 1
+[31/05/2026 15:03:06] === TAREAS COMPLETADAS ===
