@@ -1,0 +1,11 @@
+{
+  "fecha": "30/5/2026, 20:41:51",
+  "proyecto": "gestion-paquetes",
+  "version": "1.0.0",
+  "dependencias": {
+    "axios": "^1.16.1"
+  },
+  "dependenciasDev": {
+    "nodemon": "^3.1.14"
+  }
+}

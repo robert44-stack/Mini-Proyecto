@@ -1,0 +1,367 @@
+[30/5/2026, 20:54:48] Iniciando backup...
+[30/5/2026, 20:54:48] Archivo respaldado: archivo1.txt
+[30/5/2026, 20:54:48] Archivo respaldado: archivo2.txt
+[30/5/2026, 20:54:48] Archivo respaldado: archivo3.txt
+[30/5/2026, 20:54:48] Backup completado en: backups\backup-2026-05-31T00-54-48-165Z
+[30/5/2026, 21:11:46] Iniciando backup...
+[30/5/2026, 21:11:46] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:11:46] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:11:46] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:11:46] Backup completado en: backups\backup-2026-05-31T01-11-46-917Z
+[30/5/2026, 21:11:46] Limpiando backups de más de 7 días...
+[30/5/2026, 21:11:46] No hay backups antiguos para eliminar
+[30/5/2026, 21:11:46] === RESUMEN ===
+[30/5/2026, 21:11:46] Archivos en carpeta: 3
+[30/5/2026, 21:11:46] Backups disponibles: 2
+[30/5/2026, 21:11:46] Total de registros en log: 15
+[30/5/2026, 21:12:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:12:32] Iniciando backup...
+[30/5/2026, 21:12:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:12:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:12:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:12:32] Backup completado en: backups\backup-2026-05-31T01-12-32-734Z
+[30/5/2026, 21:12:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:12:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:12:32] === RESUMEN ===
+[30/5/2026, 21:12:32] Archivos en carpeta: 3
+[30/5/2026, 21:12:32] Backups disponibles: 3
+[30/5/2026, 21:12:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:13:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:13:02] Iniciando backup...
+[30/5/2026, 21:13:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:13:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:13:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:13:02] Backup completado en: backups\backup-2026-05-31T01-13-02-760Z
+[30/5/2026, 21:13:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:13:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:13:02] === RESUMEN ===
+[30/5/2026, 21:13:02] Archivos en carpeta: 3
+[30/5/2026, 21:13:02] Backups disponibles: 4
+[30/5/2026, 21:13:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:13:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:13:32] Iniciando backup...
+[30/5/2026, 21:13:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:13:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:13:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:13:32] Backup completado en: backups\backup-2026-05-31T01-13-32-765Z
+[30/5/2026, 21:13:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:13:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:13:32] === RESUMEN ===
+[30/5/2026, 21:13:32] Archivos en carpeta: 3
+[30/5/2026, 21:13:32] Backups disponibles: 5
+[30/5/2026, 21:13:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:14:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:14:02] Iniciando backup...
+[30/5/2026, 21:14:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:14:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:14:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:14:02] Backup completado en: backups\backup-2026-05-31T01-14-02-775Z
+[30/5/2026, 21:14:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:14:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:14:02] === RESUMEN ===
+[30/5/2026, 21:14:02] Archivos en carpeta: 3
+[30/5/2026, 21:14:02] Backups disponibles: 6
+[30/5/2026, 21:14:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:14:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:14:32] Iniciando backup...
+[30/5/2026, 21:14:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:14:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:14:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:14:32] Backup completado en: backups\backup-2026-05-31T01-14-32-822Z
+[30/5/2026, 21:14:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:14:33] No hay backups antiguos para eliminar
+[30/5/2026, 21:14:33] === RESUMEN ===
+[30/5/2026, 21:14:33] Archivos en carpeta: 3
+[30/5/2026, 21:14:33] Backups disponibles: 7
+[30/5/2026, 21:14:33] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:15:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:15:02] Iniciando backup...
+[30/5/2026, 21:15:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:15:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:15:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:15:02] Backup completado en: backups\backup-2026-05-31T01-15-02-810Z
+[30/5/2026, 21:15:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:15:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:15:02] === RESUMEN ===
+[30/5/2026, 21:15:02] Archivos en carpeta: 3
+[30/5/2026, 21:15:02] Backups disponibles: 8
+[30/5/2026, 21:15:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:15:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:15:32] Iniciando backup...
+[30/5/2026, 21:15:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:15:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:15:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:15:32] Backup completado en: backups\backup-2026-05-31T01-15-32-812Z
+[30/5/2026, 21:15:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:15:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:15:32] === RESUMEN ===
+[30/5/2026, 21:15:32] Archivos en carpeta: 3
+[30/5/2026, 21:15:32] Backups disponibles: 9
+[30/5/2026, 21:15:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:16:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:16:02] Iniciando backup...
+[30/5/2026, 21:16:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:16:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:16:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:16:02] Backup completado en: backups\backup-2026-05-31T01-16-02-819Z
+[30/5/2026, 21:16:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:16:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:16:02] === RESUMEN ===
+[30/5/2026, 21:16:02] Archivos en carpeta: 3
+[30/5/2026, 21:16:02] Backups disponibles: 10
+[30/5/2026, 21:16:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:16:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:16:32] Iniciando backup...
+[30/5/2026, 21:16:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:16:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:16:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:16:32] Backup completado en: backups\backup-2026-05-31T01-16-32-833Z
+[30/5/2026, 21:16:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:16:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:16:32] === RESUMEN ===
+[30/5/2026, 21:16:32] Archivos en carpeta: 3
+[30/5/2026, 21:16:32] Backups disponibles: 11
+[30/5/2026, 21:16:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:17:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:17:02] Iniciando backup...
+[30/5/2026, 21:17:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:17:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:17:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:17:02] Backup completado en: backups\backup-2026-05-31T01-17-02-843Z
+[30/5/2026, 21:17:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:17:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:17:02] === RESUMEN ===
+[30/5/2026, 21:17:02] Archivos en carpeta: 3
+[30/5/2026, 21:17:02] Backups disponibles: 12
+[30/5/2026, 21:17:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:17:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:17:32] Iniciando backup...
+[30/5/2026, 21:17:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:17:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:17:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:17:32] Backup completado en: backups\backup-2026-05-31T01-17-32-846Z
+[30/5/2026, 21:17:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:17:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:17:32] === RESUMEN ===
+[30/5/2026, 21:17:32] Archivos en carpeta: 3
+[30/5/2026, 21:17:32] Backups disponibles: 13
+[30/5/2026, 21:17:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:18:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:18:02] Iniciando backup...
+[30/5/2026, 21:18:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:18:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:18:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:18:02] Backup completado en: backups\backup-2026-05-31T01-18-02-851Z
+[30/5/2026, 21:18:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:18:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:18:02] === RESUMEN ===
+[30/5/2026, 21:18:02] Archivos en carpeta: 3
+[30/5/2026, 21:18:02] Backups disponibles: 14
+[30/5/2026, 21:18:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:18:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:18:32] Iniciando backup...
+[30/5/2026, 21:18:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:18:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:18:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:18:32] Backup completado en: backups\backup-2026-05-31T01-18-32-858Z
+[30/5/2026, 21:18:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:18:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:18:32] === RESUMEN ===
+[30/5/2026, 21:18:32] Archivos en carpeta: 3
+[30/5/2026, 21:18:32] Backups disponibles: 15
+[30/5/2026, 21:18:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:19:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:19:02] Iniciando backup...
+[30/5/2026, 21:19:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:19:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:19:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:19:02] Backup completado en: backups\backup-2026-05-31T01-19-02-861Z
+[30/5/2026, 21:19:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:19:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:19:02] === RESUMEN ===
+[30/5/2026, 21:19:02] Archivos en carpeta: 3
+[30/5/2026, 21:19:02] Backups disponibles: 16
+[30/5/2026, 21:19:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:19:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:19:32] Iniciando backup...
+[30/5/2026, 21:19:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:19:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:19:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:19:32] Backup completado en: backups\backup-2026-05-31T01-19-32-870Z
+[30/5/2026, 21:19:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:19:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:19:32] === RESUMEN ===
+[30/5/2026, 21:19:32] Archivos en carpeta: 3
+[30/5/2026, 21:19:32] Backups disponibles: 17
+[30/5/2026, 21:19:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:20:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:20:02] Iniciando backup...
+[30/5/2026, 21:20:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:20:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:20:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:20:02] Backup completado en: backups\backup-2026-05-31T01-20-02-885Z
+[30/5/2026, 21:20:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:20:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:20:02] === RESUMEN ===
+[30/5/2026, 21:20:02] Archivos en carpeta: 3
+[30/5/2026, 21:20:02] Backups disponibles: 18
+[30/5/2026, 21:20:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:20:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:20:32] Iniciando backup...
+[30/5/2026, 21:20:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:20:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:20:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:20:32] Backup completado en: backups\backup-2026-05-31T01-20-32-894Z
+[30/5/2026, 21:20:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:20:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:20:32] === RESUMEN ===
+[30/5/2026, 21:20:32] Archivos en carpeta: 3
+[30/5/2026, 21:20:32] Backups disponibles: 19
+[30/5/2026, 21:20:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:21:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:21:02] Iniciando backup...
+[30/5/2026, 21:21:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:21:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:21:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:21:02] Backup completado en: backups\backup-2026-05-31T01-21-02-904Z
+[30/5/2026, 21:21:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:21:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:21:02] === RESUMEN ===
+[30/5/2026, 21:21:02] Archivos en carpeta: 3
+[30/5/2026, 21:21:02] Backups disponibles: 20
+[30/5/2026, 21:21:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:21:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:21:32] Iniciando backup...
+[30/5/2026, 21:21:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:21:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:21:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:21:32] Backup completado en: backups\backup-2026-05-31T01-21-32-912Z
+[30/5/2026, 21:21:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:21:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:21:32] === RESUMEN ===
+[30/5/2026, 21:21:32] Archivos en carpeta: 3
+[30/5/2026, 21:21:32] Backups disponibles: 21
+[30/5/2026, 21:21:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:22:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:22:02] Iniciando backup...
+[30/5/2026, 21:22:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:22:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:22:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:22:02] Backup completado en: backups\backup-2026-05-31T01-22-02-926Z
+[30/5/2026, 21:22:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:22:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:22:02] === RESUMEN ===
+[30/5/2026, 21:22:02] Archivos en carpeta: 3
+[30/5/2026, 21:22:02] Backups disponibles: 22
+[30/5/2026, 21:22:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:22:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:22:32] Iniciando backup...
+[30/5/2026, 21:22:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:22:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:22:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:22:32] Backup completado en: backups\backup-2026-05-31T01-22-32-937Z
+[30/5/2026, 21:22:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:22:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:22:32] === RESUMEN ===
+[30/5/2026, 21:22:32] Archivos en carpeta: 3
+[30/5/2026, 21:22:32] Backups disponibles: 23
+[30/5/2026, 21:22:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:23:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:23:02] Iniciando backup...
+[30/5/2026, 21:23:02] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:23:02] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:23:02] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:23:02] Backup completado en: backups\backup-2026-05-31T01-23-02-952Z
+[30/5/2026, 21:23:02] Limpiando backups de más de 7 días...
+[30/5/2026, 21:23:02] No hay backups antiguos para eliminar
+[30/5/2026, 21:23:02] === RESUMEN ===
+[30/5/2026, 21:23:02] Archivos en carpeta: 3
+[30/5/2026, 21:23:02] Backups disponibles: 24
+[30/5/2026, 21:23:02] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:23:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:23:32] Iniciando backup...
+[30/5/2026, 21:23:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:23:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:23:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:23:32] Backup completado en: backups\backup-2026-05-31T01-23-32-961Z
+[30/5/2026, 21:23:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:23:32] No hay backups antiguos para eliminar
+[30/5/2026, 21:23:32] === RESUMEN ===
+[30/5/2026, 21:23:32] Archivos en carpeta: 3
+[30/5/2026, 21:23:32] Backups disponibles: 25
+[30/5/2026, 21:23:32] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:24:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:24:02] Iniciando backup...
+[30/5/2026, 21:24:03] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:24:03] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:24:03] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:24:03] Backup completado en: backups\backup-2026-05-31T01-24-03-061Z
+[30/5/2026, 21:24:03] Limpiando backups de más de 7 días...
+[30/5/2026, 21:24:03] No hay backups antiguos para eliminar
+[30/5/2026, 21:24:03] === RESUMEN ===
+[30/5/2026, 21:24:03] Archivos en carpeta: 3
+[30/5/2026, 21:24:03] Backups disponibles: 26
+[30/5/2026, 21:24:03] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:24:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:24:32] Iniciando backup...
+[30/5/2026, 21:24:32] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:24:32] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:24:32] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:24:32] Backup completado en: backups\backup-2026-05-31T01-24-32-989Z
+[30/5/2026, 21:24:32] Limpiando backups de más de 7 días...
+[30/5/2026, 21:24:33] No hay backups antiguos para eliminar
+[30/5/2026, 21:24:33] === RESUMEN ===
+[30/5/2026, 21:24:33] Archivos en carpeta: 3
+[30/5/2026, 21:24:33] Backups disponibles: 27
+[30/5/2026, 21:24:33] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:25:02] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:25:02] Iniciando backup...
+[30/5/2026, 21:25:03] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:25:03] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:25:03] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:25:03] Backup completado en: backups\backup-2026-05-31T01-25-03-000Z
+[30/5/2026, 21:25:03] Limpiando backups de más de 7 días...
+[30/5/2026, 21:25:03] No hay backups antiguos para eliminar
+[30/5/2026, 21:25:03] === RESUMEN ===
+[30/5/2026, 21:25:03] Archivos en carpeta: 3
+[30/5/2026, 21:25:03] Backups disponibles: 28
+[30/5/2026, 21:25:03] === TAREAS COMPLETADAS ===
+
+[30/5/2026, 21:25:32] === INICIANDO TAREAS AUTOMATIZADAS ===
+[30/5/2026, 21:25:32] Iniciando backup...
+[30/5/2026, 21:25:33] Archivo respaldado: archivo1.txt
+[30/5/2026, 21:25:33] Archivo respaldado: archivo2.txt
+[30/5/2026, 21:25:33] Archivo respaldado: archivo3.txt
+[30/5/2026, 21:25:33] Backup completado en: backups\backup-2026-05-31T01-25-32-999Z
+[30/5/2026, 21:25:33] Limpiando backups de más de 7 días...
+[30/5/2026, 21:25:33] No hay backups antiguos para eliminar
+[30/5/2026, 21:25:33] === RESUMEN ===
+[30/5/2026, 21:25:33] Archivos en carpeta: 3
+[30/5/2026, 21:25:33] Backups disponibles: 29
+[30/5/2026, 21:25:33] === TAREAS COMPLETADAS ===
+
