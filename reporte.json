@@ -1,0 +1,26 @@
+{
+  "fecha": "30/5/2026, 21:15:25",
+  "usuario": {
+    "nombre": "Linus Torvalds",
+    "seguidores": 305147,
+    "repositorios": 11
+  },
+  "topRepositorios": [
+    {
+      "nombre": "1590A",
+      "estrellas": 566
+    },
+    {
+      "nombre": "AudioNoise",
+      "estrellas": 4371
+    },
+    {
+      "nombre": "GuitarPedal",
+      "estrellas": 1948
+    }
+  ],
+  "clima": {
+    "temperatura": "24°C",
+    "descripcion": "Clear "
+  }
+}
